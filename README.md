@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a Sherif Emad. <br>I'm a software engineer.<br>I have a passion for using technology to solve problems and <br>build solutions. On GitHub, you'll find some of my <br>personal projects and contributions to open-source software. <br>I'm always looking to expand my skills and collaborate with <br>others in the tech community.<br>Portfolio: https://sherif-emad.netlify.app/<br>E-mail: sherif.emad1091@gmail.com<br>
+Hi, I'm Sherif Emad. <br>I'm a software engineer.<br>I have a passion for using technology to solve problems and <br>build solutions. On GitHub, you'll find some of my <br>personal projects and contributions to open-source software. <br>I'm always looking to expand my skills and collaborate with <br>others in the tech community.<br>Portfolio: https://sherif-emad.netlify.app/<br>E-mail: sherif.emad1091@gmail.com<br>
 
 
 ## 🌐 Socials:
