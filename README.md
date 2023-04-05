@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Sherif Emad, a software engineer with a passion for <br>developing innovative and user-friendly software solutions.
+You can email me at sherif.emad1091@gmail.com
 
 
 ## 🌐 Socials:
