@@ -1,10 +1,10 @@
-# 🚀 Sherif Emad | Senior DevOps Engineer
+# ☁️ Sherif Emad | Senior DevOps Engineer
 
 Hi, I'm Sherif — a Senior DevOps Engineer with experience building scalable infrastructure, optimizing CI/CD pipelines, and driving DevSecOps practices across enterprise environments.
 
 I focus on **automation, reliability, and security**, and I enjoy designing systems that reduce manual effort and scale efficiently.
 
-📩 Reach me at: <sherif.emad1091@gmail.com>
+📩 Reach me at: <sherif.emad1092@gmail.com>
 
 ---
 
